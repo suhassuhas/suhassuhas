@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 [![HitCount](https://hits.dwyl.com/suhassuhas/suhassuhas.svg?style=flat-square)](http://hits.dwyl.com/suhassuhas/suhassuhas)
 -->
 
-Hello, my name is Suhas . I am a software developer with one year of experience working as a Software Engineer at [Versa Networks.](https://versa-networks.com/) My technology stack involves C, Python, Golang, Docker, Gin, Mongodb, Dynamodb. Besides programming, I have an immense interest in Cricket.
+Hello, my name is Suhas . I am a software developer with one year of experience working as a Software Engineer at [Cisco.](https://www.cisco.com/) My technology stack involves C, Python, Golang, Docker, Gin, Mongodb, Dynamodb. Besides programming, I have an immense interest in Cricket.
 
 
 - 🌱 I’m currently learning Golang,Kafka
