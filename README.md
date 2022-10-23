@@ -24,5 +24,5 @@ Hello, my name is Suhas . I am a software developer with one year of experience 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhassuhas&show_icons=true&theme=dark" />
 <!-- </a> -->
 
-<!-- <a href="https://github.com/prashanthatp/prashanthatp"> -->
+<!-- <a href="https://github.com/suhassuhas/suhassuhas"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhassuhas&layout=compact&theme=dark" />
