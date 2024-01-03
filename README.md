@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 [![HitCount](https://hits.dwyl.com/suhassuhas/suhassuhas.svg?style=flat-square)](http://hits.dwyl.com/suhassuhas/suhassuhas)
 -->
 
-Hello, my name is Suhas . I am a software developer with one year of experience working as a Software Engineer at [Cisco.](https://www.cisco.com/) My technology stack involves C, Python, Golang, Docker, Gin, Mongodb, Dynamodb. Besides programming, I have an immense interest in Cricket.
+Hello, my name is Suhas . I am a software developer with one year of experience working as a Software Engineer at [Cisco.](https://www.cisco.com/) My technology stack involves C, Python, Golang. I mainly work on  developing networking and security tools.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhas-r-97a508165/)](https://www.linkedin.com/in/suhas-r-97a508165/)
 
